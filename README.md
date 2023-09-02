@@ -34,7 +34,7 @@ Here are some few 4 sports that I would like to Recommand because of its advanta
 > "A man who dares to waste one hour of time has not discovered the value of life." - *Charles Darwin*
 
 ---
-# How to export Flowbite React theme (JSON) from Figma?"
+# How to export Flowbite React theme (JSON) from Figma?
 
 > Out UI/UX designer has created some examples/libraries in the Figma design system based on the Flowbite components.
 
@@ -82,7 +82,7 @@ Here are some few 4 sports that I would like to Recommand because of its advanta
   </div>
 
 </form>
- 
+
 ```
 
 [click for source code](https://css-tricks.com/snippets/html/example-form-markup/)
