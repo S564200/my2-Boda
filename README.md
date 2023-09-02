@@ -16,5 +16,16 @@ I liked the my city Hyderabad because it is  a major IT hub and is referred to a
 
 please check  [Mystats](MyStats.md) for knowing more about me.
 
+---------------------------------------------------------
+# Reccomanding 4 sports
+Here are some few 4 sports that I would like to Recommand because of its advantages so that we all can stay healthy.
+
+| Name of the Sport| Reason for Recommandation| Total hours spent|
+|------------------|--------------------------|------------------|
+|Batmintton        |Boosts our health         |2hrs              |
+|Carroms           |Improves our Brain        |2hrs              |
+|Swimming          |Full body workout         |1hrs              |
+|Cricket           |Improves self confidence  |2hrs              |        
+
 
 
