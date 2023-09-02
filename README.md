@@ -25,7 +25,12 @@ Here are some few 4 sports that I would like to Recommand because of its advanta
 |Batmintton        |Boosts our health         |2hrs              |
 |Carroms           |Improves our Brain        |2hrs              |
 |Swimming          |Full body workout         |1hrs              |
-|Cricket           |Improves self confidence  |2hrs              |        
+|Cricket           |Improves self confidence  |2hrs              |   
+
+---------------------------------------------------------------------------------------
+# Pithy Quotes by two scientists.
+> "A person who never made a mistake never tried anything new." - *Albert Einstein*
+> "A man who dares to waste one hour of time has not discovered the value of life." - *Charles Darwin*
 
 
 
