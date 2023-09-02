@@ -8,4 +8,10 @@ I liked the my city Hyderabad because it is  a major IT hub and is referred to a
 2. **Salar Jung Museum** : This museum is located in hyderabad near Musi river and it is one of the finest museum in Hyderabad where we can see oldest  monuments & priceless books.
 3. **Wonderla**: It is water Adventure park which is located in Hyderabad.
 
+**Delicious Local Foods**
+- Hyderabadi Biryani
+- Different types of Mandis
+- Lots of delicious sweets with ice creams
+
+
 
