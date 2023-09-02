@@ -14,5 +14,7 @@ I liked the my city Hyderabad because it is  a major IT hub and is referred to a
 - Different types of Mandis
 - Lots of delicious sweets with ice creams
 
+please check  [Mystats](MyStats.md) for knowing more about me.
+
 
 
